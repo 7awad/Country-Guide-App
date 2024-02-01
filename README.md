@@ -1,6 +1,9 @@
 # Country Guide App
 
 This is a simple web application that allows users to get information about a specific country. Users can input a country name, click the "Search" button, and view details such as the country's flag, capital, continent, population, currency, and common languages.
+![project5](https://github.com/7awad/Country-Guide-App/assets/123418692/258a8be3-7538-4de7-a3b0-db5aadb31dcf)
+
+
 
 ## Features
 - Search for a country and get detailed information.
